@@ -1,0 +1,21 @@
+# config/_default/languages.en.toml
+
+title = "mahaboobtech"
+
+# languages.en.toml
+
+
+[params.author]
+name = "shaik mahaboob basha"
+image = "img/author.jpg"
+headline = "I ❤️ electronics technology "
+bio = "I like to give my thougths and research here"
+links = [
+  { twitter = "https://twitter.com/mahaboobtech" },
+  { youtube = "https://youtube.com/mahaboobtech"},
+  { instagram = "https://instagram.com/mahaboob_tech"},
+  { linkedin = "https://linkedin.com/in/mahaboobtech" }
+]
+
+
+

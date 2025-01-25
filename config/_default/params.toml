@@ -1,0 +1,21 @@
+# config/_default/params.toml
+
+colorScheme = "Cherry"
+homepage.layout = "profile" 
+homepage.recentLimit = 100
+homepage.showRecent = 1
+
+mainSections = ["tech", "other","offtopic","prog"]
+
+defaultAppearance = "light"  # Set the default theme appearance
+autoSwitchAppearance = true  # Automatically switch based on OS preference
+
+footer.showAppearanceSwitcher = true  # Enable the appearance switcher in the footer
+
+article.showTableOfContents = true  # Show ToC in articles
+list.showTableOfContents = true     # Show ToC in list pages
+
+# config/_default/params.toml
+enableSearch = true  # Enable search functionality
+
+
