@@ -20,6 +20,10 @@
   pageRef = "other"
   weight = 40
 
+[[main]]
+  name = "Shop"
+  pageRef = "Shop"
+  weight = 50
 
 [[main]]
   identifier = "search"

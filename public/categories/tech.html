@@ -12,7 +12,7 @@
   class="scroll-smooth"
   data-default-appearance="light"
   data-auto-appearance="true"
-><head>
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#FFFFFF" />
@@ -26,8 +26,8 @@
   
   <script
     type="text/javascript"
-    src="../js/appearance.min.74ad8406faea02f3e186ba5126249aaeed9073629e04b05037b903396b188724.js"
-    integrity="sha256-dK2EBvrqAvPhhrpRJiSaru2Qc2KeBLBQN7kDOWsYhyQ="
+    src="../js/appearance.min.8a082f81b27f3cb2ee528df0b0bdc39787034cf2cc34d4669fbc9977c929023c.js"
+    integrity="sha256-iggvgbJ/PLLuUo3wsL3Dl4cDTPLMNNRmn7yZd8kpAjw="
   ></script>
   
   
@@ -40,8 +40,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="../css/main.bundle.min.d548a9a78758c1e64e5e8684841dfb2d1556dee20ee4ca91876c61fef711302a.css"
-    integrity="sha256-1Uipp4dYweZOXoaEhB37LRVW3uIO5MqRh2xh/vcRMCo="
+    href="../css/main.bundle.min.b1d7ad4cd45cc7c269b2c0060f5dde9768946e8f4284943c1d529789ff4236dd.css"
+    integrity="sha256-sdetTNRcx8JpssAGD13el2iUbo9ChJQ8HVKXif9CNt0="
   />
   
     
@@ -58,8 +58,8 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="../js/main.bundle.min.f4243e18b1f012d4086a1c8588e367983174063418141921d1fe6f6fdbfa6eca.js"
-      integrity="sha256-9CQ&#43;GLHwEtQIahyFiONnmDF0BjQYFBkh0f5vb9v6bso="
+      src="../js/main.bundle.min.01b5259c335eff80b5542f5a4cebac3967fc19103bae3652ecb501b413fba8e2.js"
+      integrity="sha256-AbUlnDNe/4C1VC9aTOusOWf8GRA7rjZS7LUBtBP7qOI="
       data-copy="Copy"
       data-copied="Copied"
     ></script>
@@ -76,7 +76,7 @@
   
   
   
-  <link rel="canonical" href="http://mahaboobtech.s3-website-region.amazonaws.com/categories/tech.html" />
+  <link rel="canonical" href="http://localhost:1313/categories/tech.html" />
   <link rel="alternate" type="application/rss+xml" href="../categories/tech/index.xml" title="mahaboobtech" />
   
   
@@ -95,7 +95,7 @@
   <meta property="og:title" content="Tech" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://mahaboobtech.s3-website-region.amazonaws.com/categories/tech.html" />
+<meta property="og:url" content="http://localhost:1313/categories/tech.html" />
 
   <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Tech"/>
 <meta name="twitter:description" content=""/>
@@ -124,13 +124,9 @@
 
 
 
-  
-  
-  
-  
-  
-  
 
+  
+  
 
   
   
@@ -226,6 +222,22 @@
                   ><span
                       class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
                       >other</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+            
+            <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5">
+              
+                <a
+                  href="../shop.html"
+                  title=""
+                  
+                  ><span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >Shop</span
                     >
                   </a
                 >
@@ -368,8 +380,23 @@
     
   </section>
 
-        
-      </main><footer class="py-10 print:hidden">
+      </main>
+      
+        <div
+          class="pointer-events-none absolute bottom-0 end-0 top-[100vh] w-12"
+          id="to-top"
+          hidden="true"
+        >
+          <a
+            href="#the-top"
+            class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+            aria-label="Scroll to top"
+            title="Scroll to top"
+          >
+            &uarr;
+          </a>
+        </div>
+      <footer class="py-10 print:hidden">
   
   
     <nav class="pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
@@ -480,7 +507,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 z-50 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://mahaboobtech.s3-website-region.amazonaws.com/"
+  data-url="http://localhost:1313/"
 >
   <div
     id="search-modal"
