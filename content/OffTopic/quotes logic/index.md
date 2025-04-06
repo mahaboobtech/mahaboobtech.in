@@ -13,6 +13,9 @@ welcome here guys, this one is special blog because it is wrote with a lot of ex
 all of this quotes are not wrote by me it is by roomate name called hari krishna. 
 
 ![hari krishna](hari.jpg)
+![alt text](1.jpg)
+![alt text](2.jpg)
+![alt text](3.jpg)
 
 he is professional, working in a MNC company who has a good work experience in his field thank you Mr. Hari Krishna for providing your valuable quotes to our website we really appreciate you for your contribuation.
 
