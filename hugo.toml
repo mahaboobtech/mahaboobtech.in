@@ -1,4 +1,4 @@
-baseURL = 'http://mahaboobtech.s3-website-region.amazonaws.com/'
+baseURL = 'https://mahaboobtech.github.io/mahaboobtech.in/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'congo'
