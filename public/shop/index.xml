@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shops on mahaboobtech</title>
-    <link>http://localhost:1313/shop.html</link>
+    <link>http://localhost:1313/mahaboobtech.in/shop.html</link>
     <description>Recent content in Shops on mahaboobtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Apr 2025 15:35:04 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/shop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mahaboobtech.in/shop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teslacoil</title>
-      <link>http://localhost:1313/shop/teslacoil.html</link>
+      <link>http://localhost:1313/mahaboobtech.in/shop/teslacoil.html</link>
       <pubDate>Sun, 06 Apr 2025 15:35:04 +0530</pubDate>
-      <guid>http://localhost:1313/shop/teslacoil.html</guid>
+      <guid>http://localhost:1313/mahaboobtech.in/shop/teslacoil.html</guid>
       <description>hi this is fun lets enjoy the things what ever i have in my mind</description>
     </item>
   </channel>
