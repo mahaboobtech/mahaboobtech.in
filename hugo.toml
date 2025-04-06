@@ -2,5 +2,5 @@ baseURL = 'https://mahaboobtech.github.io/mahaboobtech.in/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'congo'
-relativeURLs = true
-uglyURLs = true
+relativeURLs = false  # Changed to false for absolute URLs
+uglyURLs = false     # Optional: cleaner URLs
