@@ -1,0 +1,6 @@
+baseURL = 'https://mahaboobtech.in/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'congo'
+relativeURLs = false  # Changed to false for absolute URLs
+uglyURLs = false     # Optional: cleaner URLs

@@ -1,0 +1,48 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Tech"
+  pageRef = "Tech"
+  weight = 10
+
+[[main]]
+  name = "Programming"
+  pageRef = "prog"
+  weight = 20
+  
+[[main]]
+  name = "OffTopic"
+  pageRef = "OffTopic"
+  weight = 30
+
+[[main]]
+  name = "other"
+  pageRef = "other"
+  weight = 40
+
+[[main]]
+  name = "Shop"
+  pageRef = "Shop"
+  weight = 50
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 20
+
+[[footer]]
+  name = "Terms & Conditions"
+  pageRef = "terms-and-conditions"
+  weight = 30

@@ -1,0 +1,15 @@
+enableSearch = true
+list.showSummary = true
+#enableRobotsTXT = true
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+
