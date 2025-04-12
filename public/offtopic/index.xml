@@ -4,7 +4,7 @@
     <title>mahaboobtech</title>
     <link>http://localhost:1313/offtopic/</link>
     <description>Recent content on mahaboobtech</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Apr 2025 07:18:08 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/offtopic/index.xml" rel="self" type="application/rss+xml" />
@@ -35,6 +35,20 @@
       <pubDate>Thu, 11 Jul 2024 22:19:17 +0530</pubDate>
       <guid>http://localhost:1313/offtopic/data_nomalization/</guid>
       <description>In this article what ever i give the information is based on my personal experience so i think my personal setup may help you guys thats why i recommend you to use this setup&#xA;i am taking what ever your requirement wise that you will use in your daily drive&#xA;why need to documentation #first of all why we need to document something, well small kind of things will doesnt matter but when it comes to like making a project or gathering some big data or learning something and you opened it again and you will know that you have forgotten that thing which you were fantastic at that thing few months back or few years back, you may have get this kind of problem in your life right?</description>
+    </item>
+    <item>
+      <title>Job scams</title>
+      <link>http://localhost:1313/offtopic/job_scams/</link>
+      <pubDate>Tue, 02 Jul 2024 22:53:47 +0530</pubDate>
+      <guid>http://localhost:1313/offtopic/job_scams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyderabad</title>
+      <link>http://localhost:1313/offtopic/hyderabad/</link>
+      <pubDate>Sun, 30 Jun 2024 19:38:55 +0530</pubDate>
+      <guid>http://localhost:1313/offtopic/hyderabad/</guid>
+      <description>i love hyderabad because of charminar</description>
     </item>
   </channel>
 </rss>
