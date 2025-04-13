@@ -64,6 +64,3 @@ Whether it’s your **first time building a site** or you need a **professional 
 📧 **Email:** mickelbasha1268@gmail.com  
 Let’s take your idea online — professionally and affordably!
 
----
-
-This version now includes the note regarding both **domain** and **dynamic website server charges** in the "Note" section. You can paste this directly into your **Canvas website document**. If you'd like more changes, just let me know!

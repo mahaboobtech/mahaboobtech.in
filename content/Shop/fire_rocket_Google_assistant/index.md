@@ -1,7 +1,7 @@
 +++
 title = 'Fire rocket with Google assistant'
 date = 2025-04-12T16:58:12+05:30
-draft = true
+draft = false
 tags = [""]
 Categories = [""]
 +++

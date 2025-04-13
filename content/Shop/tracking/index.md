@@ -1,7 +1,7 @@
 +++
 title = 'Tracking Device'
 date = 2025-04-12T16:05:43+05:30
-draft = true
+draft = false
 tags = [""]
 Categories = [""]
 +++

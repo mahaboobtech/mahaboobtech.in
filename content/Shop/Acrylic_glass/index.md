@@ -1,7 +1,7 @@
 +++
 title = 'Acrylic Glass'
 date = 2025-04-12T17:30:56+05:30
-draft = true
+draft = false
 tags = [""]
 Categories = [""]
 +++
