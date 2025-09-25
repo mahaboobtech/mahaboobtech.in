@@ -1,5 +1,5 @@
 +++
-title = 'Data_nomalization'
+title = 'goodnotes'
 date = 2024-07-11T22:19:17+05:30
 draft = false
 tags = [""]

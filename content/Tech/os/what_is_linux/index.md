@@ -51,7 +51,7 @@ Well, it depends on your usage. Let me tell you a few advantages and disadvantag
 
 ### My Opinion
 
-Linux is a superb OS for me. I like its responsiveness; it's noticeably faster than Windows from the moment you start using it. Linux has made my coding life much easier because fixing library problems or related software for building applications is straightforward. For example, while building software like Pix2Tex, it required certain pip libraries that are difficult to install on Windows, but on Linux, you can install them with a simple command in the terminal.
+Linux is a superb OS for me. I like its responsiveness, it's so faster than Windows from the moment you start using it. Linux has made my coding life much easier because fixing library problems or related software for building applications is straightforward. For example, while building software like Pix2Tex, it required certain pip libraries that are difficult to install on Windows, but on Linux, you can install them with a simple command in the terminal.
 
 My bad experiences were with gaming and the lack of MS Office, but I manage with LibreOffice and WPS Office, which are quite good alternatives.
 
@@ -72,3 +72,8 @@ However, I wouldn't recommend Debian or Arch Linux unless you know what you're d
 
 Forums specific to each distro exist, where you can seek help if any errors occur.
 
+if your pc is so Old like celeron, pentium, and struggling to run the windows try *xubuntu* distro it is the fastest and lightest distro, Basically its dervied from the ubuntu but light weight version.
+
+Hope your like our vlog, about my simplistic explanation on linux thank you guys.
+
+💕 check out our other articles too.... 🙏

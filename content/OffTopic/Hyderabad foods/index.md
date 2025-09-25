@@ -18,13 +18,13 @@ note this blog may update time to time, if you know few famous places & dishes y
 
 - **What to try:** Apart from the biryani, don’t miss the snacks – the **shawarma**, **broasted chicken**, and **fish** are amazing too! You can easily get a full meal for around **₹300**.
 
-- **Bonus tip:** Right beside Bawarchi, there’s **Sandhya Theatre**, You can plan a movie after your meal and make it a perfect outing!
+- **Bonus tip:** Just beside Bawarchi, there’s **Sandhya Theatre**, You can go for a movie after your meal.
 
 ---
 
 
 ### **Shah Ghouse**
-- Shah Ghouse has several branches across Hyderabad, and it's one of the most popular spots for non-veg lovers. The **mutton**, **chicken majestic**, and **garlic chicken** are especially tasty and come at an **affordable price**. Definitely worth a visit if you’re craving some spicy and flavorful dishes!
+- Shah Ghouse has several branches across Hyderabad, and it's one of the most popular spots for non-veg lovers. The **mutton**, **chicken majestic**, and **garlic chicken** are especially tasty and come at an **affordable price**. Definitely worth a visit if you’re craving some spicy!
 
 ---
 
@@ -32,22 +32,22 @@ note this blog may update time to time, if you know few famous places & dishes y
 ### **Alkabar Cafe**
 - **Alkabar Cafe** is located near **Charminar**, and it’s a great spot for a quick and satisfying bite while you're exploring the area. You can navigate to it by clicking [this link](https://g.co/kgs/ZQ1goUs). They serve tasty **burgers** and **sandwiches**, both priced around **₹100** – definitely worth the money!
 
-- In addition, they also offer **French fries** and **broasted chicken**, which come at a **slightly higher price** but are equally delicious. If you're visiting Charminar, don’t miss giving this place a try!
+- In addition, they also offer **French fries** and **broasted chicken**, which come at a **slightly higher price** but are equally delicious. If you're visiting Charminar, just give a try!
 
 ---
 
 
 ### **Uday Restaurant**
-- **Uday Restaurant** is a hidden gem located near **Abids**, known for its **low prices** and **great quality food**. You can find it on the map [here](https://maps.app.goo.gl/Z1JbmyeUZcGFmZNC8). They serve delicious **biryani**, **chicken 65**, and soft **butter naan & roti** – all full of flavor!
+- **Uday Restaurant** is a hidden gem located near **Abids**, known for its **low prices** and **great quality food**. You can find it on the map [here](https://maps.app.goo.gl/Z1JbmyeUZcGFmZNC8). They serve delicious **biryani**, **chicken 65**, and soft **butter naan & roti** so good.
 
-- It’s one of the **oldest restaurants** in the area, and a great spot to enjoy a tasty meal without burning a hole in your pocket. Definitely worth a visit when you're around Abids.
+- It’s one of the **oldest restaurants** in the area, and a great spot to enjoy a tasty meal without dotting a hole in your pocket. Definitely worth a visit when you're around Abids.
 
 ---
 
 ### **DLF Street Food**
-- **DLF Street Food** is one of the most famous street food spots in **Gachibowli**. You can check the location [here](https://maps.app.goo.gl/3sfUUtBF21JR7kgS8). The area is packed with popular stalls, and if you love street food, this place is a must-visit!
+- **DLF Street Food** is one of the most famous street food spots in **Gachibowli**. You can check the location [here](https://maps.app.goo.gl/3sfUUtBF21JR7kgS8). The area is packed with popular stalls, and if you love street food, just visit there.
 
-- One of the must-tries is the **shawarma** from one of the well-known stalls. If you have **time and budget**, explore as many stalls as you can – each one has its own unique taste and vibe!
+- One of the must-tries is the **shawarma** from one of the well-known stalls. If you have **time and budget**, explore as many stalls as you can explore it.
 
 ---
 
@@ -61,7 +61,7 @@ note this blog may update time to time, if you know few famous places & dishes y
 ### **Milan Juice Center**
 - **Milan Juice Center** is located near **Charminar** and is well-known for its wide variety of **juices** and **ice creams**. You can check the location [here](https://maps.app.goo.gl/SSWeyckFL9wQXEEZA).
 
-- While the prices here are a bit on the **higher side**, the **quality and taste** make it totally worth it. If you're in the Charminar area, this place is **highly recommended** for a refreshing treat!
+- While the prices here are a bit on the **higher side**, the **quality and taste** make it totally worth it. If you're in the Charminar area, this place is **highly recommended**.
 
 ---
 
@@ -81,17 +81,17 @@ note this blog may update time to time, if you know few famous places & dishes y
 ### **Taaza Point, Balapur**
 - **Taaza Point** in **Balapur** is a great spot if you're craving a tasty and budget-friendly **dosa**. You can check the location [here](https://maps.app.goo.gl/6t6fZqqigbp4r7FN9).
 
-- Their dosas are **big in size**, **rich in taste**, and come at **low prices**, making it a perfect place for a quick and satisfying meal. Definitely worth checking out!
+- Their dosas are **big in size**, **rich in taste**, and come at **low prices**, making it a perfect place for a quick and satisfying meal.
 
 ---
 
 ### **Famous Ice Cream – Nampally**
 ![alt text](famous.png)
-- Located in **Nampally**, **Famous Ice Cream** is not just about the ice cream – it’s about the **whole experience**. Check the location [here](https://maps.app.goo.gl/XsDLDY43CUx3HYmE7).
+- Located in **Nampally**, **Famous Ice Cream** is not just about the ice cream – it’s about the **experience** just like KLM shopping malls kinda. Check the location [here](https://maps.app.goo.gl/XsDLDY43CUx3HYmE7).
 
 - The place has a **historical charm**, built with **stone walls**, and sits right in the **middle of traffic hustle**, yet offers a surprisingly **peaceful vibe**. There’s a **large outdoor seating area**, cool **grass-covered tables**, and lovely **lighting** at night – perfect for all kinds of visitors.
 
-- With a **wide variety of ice creams** and plenty of space, it’s a chill spot to hang out, even if there’s a bit of noise around. Totally worth a visit!
+- With a **wide variety of ice creams** and plenty of space, it’s a chill spot to hang out, even if there’s a bit of noise around.
 
 ---
 
@@ -100,6 +100,4 @@ note this blog may update time to time, if you know few famous places & dishes y
 
 - It’s **Hyderabad’s No.1 spot for haleem** during Ramzan — so popular that **celebrities** often drop by, and the place gets **super crowded at night**. 
 
-- Apart from haleem, their **Double Gosht Mutton Biryani** priced around ₹600 is absolutely **worth every rupee** – rich in flavor, perfectly cooked meat, and just unforgettable. You **must try it once** if you’re in the city during the festive season!
-
----
+- Apart from haleem, their **Double Gosht Mutton Biryani** priced around ₹600 is absolutely **worth every rupee** – rich in flavor, perfectly cooked meat, and just unforgettable.You should try during the Ramzaan seasons.

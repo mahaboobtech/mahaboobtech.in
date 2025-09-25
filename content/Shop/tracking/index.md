@@ -1,12 +1,12 @@
 +++
 title = 'Tracking Device'
 date = 2025-04-12T16:05:43+05:30
-draft = false
+draft = true
 tags = [""]
 Categories = [""]
 +++
 
-**TRACKING DEVICE – SIMPLE, RELIABLE, AND AFFORDABLE**
+**TRACKING DEVICE, SIMPLE, RELIABLE, AND AFFORDABLE**
 
 ---
 
@@ -16,7 +16,7 @@ If you're looking for a tracking solution that:
 
 **1. Works without Bluetooth**  
 **2. Tracks the entire timeline of movement**  
-**3. Offers simple setup – just place and track**  
+**3. Offers simple setup, just place and track**  
 **4. Is extremely affordable**
 
 Then this is exactly what you need.
@@ -25,12 +25,12 @@ Then this is exactly what you need.
 
 ### **What We Provide**
 
-**✔️ A Compact and Efficient Tracking Device**  
-**✔️ Complete Timeline Record Storage**  
-**✔️ Server Setup Support Based on Your Requirements**  
-**✔️ Dedicated Support After Purchase**
+**- A Compact and Efficient Tracking Device**  
+**- Complete Timeline Record Storage**  
+**- Server Setup Support Based on Your Requirements**  
+**- Dedicated Support After Purchase**
 
-###  Total Price: ₹1000 ONLY  
+### Total Price: ₹1000 ONLY  
 **(As affordable as a movie ticket)**
 
 ---
@@ -62,9 +62,8 @@ And more, based on your creativity and need.
 Reach out to us at:  
 **mickelbasha1268@gmail.com**
 
-We'll be happy to assist you with everything from setup to customization.
+We'll be happy to assist you with everything from **Setup to Customization**.
 
 ---
 
-**Make tracking smarter, easier, and more affordable – with our device.**
-
+**Make tracking smarter, easier, and more affordable with our device.**
