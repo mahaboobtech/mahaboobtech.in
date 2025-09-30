@@ -1,5 +1,5 @@
 +++
-title = 'Wifi_vulnerablities'
+title = 'Wifi vulnerablities'
 date = 2024-10-01T10:50:55+05:30
 draft = false
 tags = [""]
