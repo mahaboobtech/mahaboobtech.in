@@ -8,7 +8,7 @@ Categories = [""]
 
 hello **bhojana priyulara**  😂, i am making the blog for food lovers who are at hyderabad, in this blog i will mention few places and few dishes which are famous in Hyderabad which you need definately try it atleast once in your life.
 
-note this blog may update time to time, if you know few famous places & dishes you can email us about that particular place email : **mickelbasha1268@gmail.com**
+note this blog may update time to time, if you know few famous places & dishes you can email us about that particular place email : **mahaboob@mahaboobtech.in**
 
 
 ---

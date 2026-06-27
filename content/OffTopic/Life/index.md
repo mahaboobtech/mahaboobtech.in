@@ -51,4 +51,4 @@ So folks, I think you got my point of view why I always say the word "love".
 
 Let me know what you think. My social media inboxes are always open, just DM.
 
-Your thoughts are always welcome, and I appreciate you: mickelbasha1268@gmail.com
+Your thoughts are always welcome, and I appreciate you: mahaboob@mahaboobtech.in

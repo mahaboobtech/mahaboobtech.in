@@ -20,7 +20,7 @@ MahaboobTech is the controller and responsible for your personal data (collectiv
 
 Our full details are:
 - Full name of legal entity: MahaboobTech
-- Email address: [mickelbasha1268@gmail.com](mailto:mickelbasha1268@gmail.com)
+- Email address: [mahaboob@mahaboobtech.in](mailto:mahaboob@mahaboobtech.in)
 
 ## 2. The Data We Collect About You
 
@@ -54,4 +54,4 @@ Thank you for visiting MahaboobTech!
 
 ---
 
-For any questions or concerns about this privacy policy, please contact us at [mickelbasha1268@gmail.com](mailto:mickelbasha1268@gmail.com).
+For any questions or concerns about this privacy policy, please contact us at [mahaboob@mahaboobtech.in](mailto:mahaboob@mahaboobtech.in).

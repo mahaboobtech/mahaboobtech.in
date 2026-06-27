@@ -152,6 +152,6 @@ yeah if your reading this end of the page then your very curious about linux
 so my friends follow the [beginner-level](#beginner-level) and [ultra-beginner](#ultra-beginner) to make your life better and easy thank you hope you like it 
 
 i think i made this article simpler and easy to understand i like to hear your feed backs i am open to listen those 
-you can just email me here [mickelbasha1268@gmail.com](mailto:mickelbasha1268@gmail.com)
+you can just email me here [mahaboob@mahaboobtech.in](mailto:mahaboob@mahaboobtech.in)
 
 Asthala vistah baby ! 

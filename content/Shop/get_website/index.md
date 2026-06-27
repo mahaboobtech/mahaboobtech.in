@@ -61,5 +61,5 @@ Whether it’s your **first time building a site** or you need a **professional 
 
 ### **Contact Us**
 
-📧 **Email:** mickelbasha1268@gmail.com  
+📧 **Email:** mahaboob@mahaboobtech.in  
 Let’s take your idea online, professionally and affordably!

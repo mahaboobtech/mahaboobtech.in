@@ -60,7 +60,7 @@ And more, based on your creativity and need.
 
 **Interested in working with us or making a purchase?**  
 Reach out to us at:  
-**mickelbasha1268@gmail.com**
+**mahaboob@mahaboobtech.in**
 
 We'll be happy to assist you with everything from **Setup to Customization**.
 

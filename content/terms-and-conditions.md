@@ -45,4 +45,4 @@ Thank you for visiting MahaboobTech!
 
 ---
 
-For any questions or concerns about these terms and conditions, please contact us at [mickelbasha1268@gmail.com](mailto:mickelbasha1268@gmail.com).
+For any questions or concerns about these terms and conditions, please contact us at [mahaboob@mahaboobtech.in](mailto:mahaboob@mahaboobtech.in).

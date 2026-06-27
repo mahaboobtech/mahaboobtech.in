@@ -74,4 +74,4 @@ And I don't promote joking about other persons and their characteristics. It's s
     alt="Abstract purple artwork"
     >}}
 
-That's it, prendssss! What do you think of my ideology? If anything I said is wrong, please DM me on my social media handles or you can email me: mickelbasha1268@gmail.com
+That's it, prendssss! What do you think of my ideology? If anything I said is wrong, please DM me on my social media handles or you can email me: mahaboob@mahaboobtech.in

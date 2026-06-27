@@ -54,6 +54,6 @@ Yes, you read that right. Our basic smart rocket system starts at **less than â‚
 ### **Contact Us to Order or Customize**
 
 For orders or to get a custom quote:  
-**Email:** mickelbasha1268@gmail.com
+**Email:** mahaboob@mahaboobtech.in
 
 Letâ€™s bring tech to your festive moments with safety and style!

@@ -50,6 +50,6 @@ If you need special designs, multiple color LEDs, or other customizations, the p
 ### **Contact Us to Order or Customize**
 
 For inquiries or to place an order:  
-**Email:** mickelbasha1268@gmail.com  
+**Email:** mahaboob@mahaboobtech.in  
 
 Let’s light up your name in style!
