@@ -6,14 +6,28 @@
     <description>Recent content on mahaboobtech</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 04:28:06 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:00:35 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WindowPE</title>
+      <link>http://localhost:1313/tech/windowpe/</link>
+      <pubDate>Sat, 27 Jun 2026 11:00:35 +0530</pubDate>
+      <guid>http://localhost:1313/tech/windowpe/</guid>
+      <description>Windows PE (Preinstallation Environment) #What is Windows PE? #Windows PE (Preinstallation Environment) is a lightweight version of Windows that loads during the boot process when installing, deploying, or repairing a Windows operating system.&#xA;You can think of Windows PE as a mini operating system that is included inside every Windows installation ISO. When you boot from a Windows installation media, Windows PE starts first before the actual Windows Setup or operating system loads.</description>
+    </item>
+    <item>
+      <title>Types of people</title>
+      <link>http://localhost:1313/offtopic/typesofpeople/</link>
+      <pubDate>Mon, 16 Mar 2026 20:43:44 +0530</pubDate>
+      <guid>http://localhost:1313/offtopic/typesofpeople/</guid>
+      <description>hi guys welcome to another blog, this is my some kind of requested blog by someone special so lets dedicate this blog to them!</description>
+    </item>
     <item>
       <title>Positive Attitude</title>
       <link>http://localhost:1313/offtopic/positive-attitude/</link>
       <pubDate>Fri, 10 Oct 2025 04:28:06 +0530</pubDate>
       <guid>http://localhost:1313/offtopic/positive-attitude/</guid>
-      <description>New article!&#xD;Again here I am with another pep talk, i dont like to give thing kind of articles but situation is demanding, recently one of my friend in the phase of low and they dont know what to do what ever they do just think negatively and always being sad and lack of confidance and not able to do things in life, so those kind of people are increasing in count in my area, here here we are to give you a trick</description>
+      <description>New article!&#xD;Again, here I am with another pep talk. I don&amp;rsquo;t like to give these kinds of articles, but the situation is demanding. Recently, one of my friends was in a low phase, and they didn&amp;rsquo;t know what to do. Whatever they do, they just think negatively and were always sad, lacking confidence, and unable to do things in life. So, those kinds of people are increasing in count in my area.</description>
     </item>
     <item>
       <title>Life</title>

@@ -6,8 +6,15 @@
     <description>Recent content on mahaboobtech</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 05:48:42 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:00:35 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WindowPE</title>
+      <link>http://localhost:1313/tech/windowpe/</link>
+      <pubDate>Sat, 27 Jun 2026 11:00:35 +0530</pubDate>
+      <guid>http://localhost:1313/tech/windowpe/</guid>
+      <description>Windows PE (Preinstallation Environment) #What is Windows PE? #Windows PE (Preinstallation Environment) is a lightweight version of Windows that loads during the boot process when installing, deploying, or repairing a Windows operating system.&#xA;You can think of Windows PE as a mini operating system that is included inside every Windows installation ISO. When you boot from a Windows installation media, Windows PE starts first before the actual Windows Setup or operating system loads.</description>
+    </item>
     <item>
       <title>Install Software in Linux</title>
       <link>http://localhost:1313/tech/install-software-in-linux/</link>
