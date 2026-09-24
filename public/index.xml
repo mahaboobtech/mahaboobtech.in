@@ -6,21 +6,21 @@
     <description>Recent content on mahaboobtech</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 11:00:35 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:02:06 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Working</title>
+      <link>http://localhost:1313/offtopic/the_art_of_wokring/</link>
+      <pubDate>Thu, 24 Sep 2026 17:02:06 +0530</pubDate>
+      <guid>http://localhost:1313/offtopic/the_art_of_wokring/</guid>
+      <description>Purpose: I want to document the technique of how to work efficiently, which may help you grow even faster in life. Personally, it worked for me, so I hope it is useful to you too.&#xA;Technique: First of all, there is no perfect plan to work. All you need to do is focus on what your ultimate goal is.&#xA;Before starting work, make sure your environment is quiet, with good and encouraging people around you, and make sure you stay focused.</description>
+    </item>
     <item>
       <title>WindowPE</title>
       <link>http://localhost:1313/tech/windowpe/</link>
       <pubDate>Sat, 27 Jun 2026 11:00:35 +0530</pubDate>
       <guid>http://localhost:1313/tech/windowpe/</guid>
       <description>Windows PE (Preinstallation Environment) #What is Windows PE? #Windows PE (Preinstallation Environment) is a lightweight version of Windows that loads during the boot process when installing, deploying, or repairing a Windows operating system.&#xA;You can think of Windows PE as a mini operating system that is included inside every Windows installation ISO. When you boot from a Windows installation media, Windows PE starts first before the actual Windows Setup or operating system loads.</description>
-    </item>
-    <item>
-      <title>Types of people</title>
-      <link>http://localhost:1313/offtopic/typesofpeople/</link>
-      <pubDate>Mon, 16 Mar 2026 20:43:44 +0530</pubDate>
-      <guid>http://localhost:1313/offtopic/typesofpeople/</guid>
-      <description>hi guys welcome to another blog, this is my some kind of requested blog by someone special so lets dedicate this blog to them!</description>
     </item>
     <item>
       <title>Positive Attitude</title>
@@ -58,39 +58,11 @@
       <description>GET YOUR OWN WEBSITE, AFFORDABLE, PROFESSIONAL &amp;amp; SEO-READY&#xA;We Help You Build Your Online Presence #Want to launch your personal blog, portfolio, or business online? We offer affordable website creation services with the quality and performance you need.&#xA;Note:&#xA;Domain charges are separate and must be handled by the customer. For Dynamic Websites, server charges will be applied to the customer, depending on the website complexity and expected traffic. These charges vary based on resources and hosting needs.</description>
     </item>
     <item>
-      <title>Acrylic Glass</title>
-      <link>http://localhost:1313/shop/acrylic_glass/</link>
-      <pubDate>Sat, 12 Apr 2025 17:30:56 +0530</pubDate>
-      <guid>http://localhost:1313/shop/acrylic_glass/</guid>
-      <description>ACRYLIC GLASS LED – CUSTOMIZED NAME DISPLAY&#xA;Glow Up with Personalized Style! #We now offer a customizable acrylic glass LED light. Your name or message will light up beautifully.&#xA;What’s Included:&#xA;A sleek acrylic glass base Laser-etched custom name or text LED base with soft glowing light Bonus Feature: Custom LED Color Options &amp;amp; Remote Control (Optional)&#xA;Where Can You Use It? # Birthday gifts Anniversary surprises Bedroom or living room decor Wedding table name signs Corporate nameplates Café and restaurant display boards Study or office desk accessories Baby name displays Event branding or booths Couple or friendship keepsakes Make your name shine wherever you place it!</description>
-    </item>
-    <item>
-      <title>Fire rocket with Google assistant</title>
-      <link>http://localhost:1313/shop/fire_rocket_google_assistant/</link>
-      <pubDate>Sat, 12 Apr 2025 16:58:12 +0530</pubDate>
-      <guid>http://localhost:1313/shop/fire_rocket_google_assistant/</guid>
-      <description>FIREWORK ROCKETS, NOW WITH GOOGLE ASSISTANT SUPPORT&#xA;Launch Your Firecrackers with Just Your Voice! #You can now control our firework rockets using Google Assistant.&#xA;How to Use:&#xA;Say: &amp;ldquo;Hey Google, launch my rocket.&amp;rdquo; The connected device gets the command. Our safe,functional igniter system fires up the firecracker. It’s simple, safe, and a lot of fun to use. It’s perfect for parties and festivals!&#xA;Always keep a safe distance and make sure there is plenty of open space around the launch area.</description>
-    </item>
-    <item>
-      <title>Tracking Device</title>
-      <link>http://localhost:1313/shop/tracking/</link>
-      <pubDate>Sat, 12 Apr 2025 16:05:43 +0530</pubDate>
-      <guid>http://localhost:1313/shop/tracking/</guid>
-      <description>TRACKING DEVICE, SIMPLE, RELIABLE, AND AFFORDABLE&#xA;Why Choose Our Tracking Device? #If you&amp;rsquo;re looking for a tracking solution that:&#xA;1. Works without Bluetooth&#xA;2. Tracks the entire timeline of movement&#xA;3. Offers simple setup, just place and track&#xA;4. Is extremely affordable&#xA;Then this is exactly what you need.&#xA;What We Provide #- A Compact and Efficient Tracking Device&#xA;- Complete Timeline Record Storage&#xA;- Server Setup Support Based on Your Requirements</description>
-    </item>
-    <item>
       <title>Hyderabad Foods</title>
       <link>http://localhost:1313/offtopic/hyderabad-foods/</link>
       <pubDate>Tue, 08 Apr 2025 07:18:08 +0530</pubDate>
       <guid>http://localhost:1313/offtopic/hyderabad-foods/</guid>
       <description>hello bhojana priyulara 😂, i am making the blog for food lovers who are at hyderabad, in this blog i will mention few places and few dishes which are famous in Hyderabad which you need definately try it atleast once in your life.&#xA;note this blog may update time to time, if you know few famous places &amp;amp; dishes you can email us about that particular place email : mahaboob@mahaboobtech.in</description>
-    </item>
-    <item>
-      <title>Teslacoil</title>
-      <link>http://localhost:1313/shop/teslacoil/</link>
-      <pubDate>Sun, 06 Apr 2025 15:35:04 +0530</pubDate>
-      <guid>http://localhost:1313/shop/teslacoil/</guid>
-      <description>hi this is fun lets enjoy the things what ever i have in my mind</description>
     </item>
     <item>
       <title>Quotes Logic</title>
@@ -140,13 +112,6 @@
       <pubDate>Tue, 02 Jul 2024 22:53:47 +0530</pubDate>
       <guid>http://localhost:1313/offtopic/job_scams/</guid>
       <description>Introduction of scams #In India especially in hyderabad(Telangana) I seen a lot of job scams on the both online and offline, I dont want to be victim of those like me, I want be vigilant and also make you too, so in this article i will give you all the scams you need to know and i will also give you counter steps you need to do.&#xA;remember this quote</description>
-    </item>
-    <item>
-      <title>Hyderabad</title>
-      <link>http://localhost:1313/offtopic/hyderabad/</link>
-      <pubDate>Sun, 30 Jun 2024 19:38:55 +0530</pubDate>
-      <guid>http://localhost:1313/offtopic/hyderabad/</guid>
-      <description>i love hyderabad because of charminar</description>
     </item>
     <item>
       <title>Terms and Conditions</title>
